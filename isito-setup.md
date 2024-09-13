@@ -43,3 +43,4 @@ helm repo update
 
 install kiali
 ```kubectl apply -f https://raw.githubusercontent.com/istio/istio/release-1.23/samples/addons/kiali.yaml```
+
